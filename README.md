@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**cdxgh/cdxgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm [Abdul Quadir]!
 
 I am a passionate developer and entrepreneur, dedicated to building innovative solutions and creating impactful experiences. With a strong background in software development and a keen eye for business opportunities, I thrive on combining technical expertise with an entrepreneurial mindset.
 - 🔭 I’m currently working on ...
@@ -13,6 +7,12 @@ I am a passionate developer and entrepreneur, dedicated to building innovative s
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Khanarshu0786@gmail.com
+
+<!--
+**cdxgh/cdxgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
 -->
 
