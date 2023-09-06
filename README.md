@@ -1,4 +1,4 @@
-👋 Hello, I'm Abdul Quadir!!
+👋 Hello, I'm Abdul Quadir 
 
 I am a passionate developer and entrepreneur, dedicated to building innovative solutions and creating impactful experiences. With a strong background in software development and a keen eye for business opportunities, I thrive on combining technical expertise with an entrepreneurial mindset.
 
